@@ -9,3 +9,10 @@
 # misc
 .DS_Store
 npm-debug.log*
+
+
+.settings/
+target/
+.classpath
+.project
+.tern-project
